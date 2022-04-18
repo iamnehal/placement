@@ -1,0 +1,29 @@
+
+
+class Solution {
+public:
+    
+    void solve(vector<int>&nums,int &count,int i,int temp)
+    
+        
+    {
+        if(i<0)
+        {
+            count+=temp;
+            return ;
+            
+        }
+        solve(nums,count,i-1,temp);//dontake
+        solve(nums,count,i-1,temp^nums[i]);//itake
+        
+        
+    }
+    
+    int subsetXORSum(vector<int>& nums) {
+int count=0;
+        solve(nums,count,nums.size()-1,0);
+        return count;
+        
+        
+    }
+};
