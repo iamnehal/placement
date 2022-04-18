@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"costestimated"
+			],
+			[
+				"tot",
+				"totalbneed"
+			],
+			[
+				"total",
+				"totalsneed"
+			],
+			[
+				"cou",
+				"countdrinks"
+			],
+			[
+				"count",
+				"countneeded"
+			],
+			[
+				"coun",
+				"countsuger"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "B.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAADFAAAAI2luY2x1ZGUgPGJpdHMvc3RkYysrLmg+CnVzaW5nIG5hbWVzcGFjZSBzdGQ7CmludCBtYWluKCl7CglpbnQgdHQ9IDE7CgljaW4gPj4gdHQ7Cgl3aGlsZSh0dC0tKXsKCQlpbnQgYSAsIGI7CgkJY2luID4+IGEgPj4gYjsKCQljb3V0IDw8IGEgPDwgIiwgIiA8PCBiIDw8IGVuZGw7CgkJY291dCA8PCAiSGVsbG8gd29ybGQiIDw8IGVuZGw7Cgl9Cn0AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/coding/inputf.in",
+			"settings":
+			{
+				"buffer_size": 9,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgAAAAAAAAACAAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/coding/outputf.in",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAMSwgMgpIZWxsbyB3b3JsZAozLCA0CkhlbGxvIHdvcmxkCgAAAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"origami resotre",
+				"Origami: Restore Saved Layout"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/coding/Leetcode/contest 1/coding.sublime-project",
+		"/C/inputf.txt",
+		"/C/output.txt",
+		"/C/DSA/Codechef/Lunchtime/april/1.cpp",
+		"/C/coding/output.txt",
+		"/C/coding/inputf.txt",
+		"/C/coding/outputt.txt",
+		"/C/coding/outputt",
+		"/C/coding/inputf",
+		"/C/coding/inputf.in",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/cppp",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/cpppp",
+		"/C/coding/outputf.in",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/c++14",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/outputf.out",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/file.cpp",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/inputf.in",
+		"/C/Users/91930/AppData/Roaming/Sublime Text/Packages/User/CP.sublime-build"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "B.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/coding/inputf.in",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/coding/outputf.in",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.262179487179,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CP.sublime-build",
+	"project": "coding.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"b",
+				"Leetcode\\contest 1\\B.cpp"
+			],
+			[
+				"out",
+				"outputf.in"
+			],
+			[
+				"in",
+				"inputf.in"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
